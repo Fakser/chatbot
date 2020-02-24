@@ -1,0 +1,4 @@
+1. Download messages from facebook
+2. Put choosen conversations here
+3. open seq2seqlib.py
+4. change user_name to your name and surname on facebook (to find it use ctrl+f) 
